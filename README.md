@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi Coders 👋
+### I am Kushagra Sinha 
 
 <!--
 **Kushagra-2006/Kushagra-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets6.lottiefiles.com/private_files/lf30_JhSJFE.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
+
 
 Here are some ideas to get you started:
 
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![70310-programming-concept-illustration](https://user-images.githubusercontent.com/82722802/133785454-9b2c72a7-1db3-475a-9731-3e38dbee73c2.gif)
+
