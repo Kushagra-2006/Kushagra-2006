@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Coders I am Kushagra Sinha a web developer<br>currently studying in class 11th . I make websites for fun and<br>it's my passion to build websites and I love to play with codes.
+Hello Coders I am Kushagra Sinha a web developer<br> I make websites for fun and<br>it's my passion to build websites and I love to play with codes.
 
 
 ## 🌐 Socials:
