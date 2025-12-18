@@ -1,10 +1,57 @@
-# 💫 About Me:
-Hello Coders I am Kushagra Sinha a web developer<br> I make websites for fun and<br>it's my passion to build websites and I love to play with codes.
+<!-- Banner & Intro -->
+<p align="center">
+  <img src="images.png">
+</p>
+<h1 align="center">Hi, I'm Kushagra Sinha 😉</h1>
+<p align="center">
+  <b>Aspiring Software Engineer </b>
+</p>
+<p align="center">
+  <a href="mailto:kushagrasinha1117@gmail.com"><img src="https://img.shields.io/badge/Email-kushagrasinha1117%40gmail.com-blue?logo=gmail" alt="Email"></a>
+  <a href="https://github.com/Kushagra-2006"><img src="https://img.shields.io/badge/GitHub-@Kushagra-2006-black?logo=github"></a>
+  <a href="https://www.linkedin.com/in/kushagra-sinha-06a985215/"><img src="https://img.shields.io/badge/LinkedIn-Kushagra%20Sinha-blue?logo=linkedin" alt="LinkedIn"></a>
+</p>
+  
+---
 
+### 🚀 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kushagra-sinha-06a985215/) 
+I’m a highly motivated developer with a strong foundation in coding and a deep curiosity for how real-world systems are built and scaled. While I may not have followed a conventional path of excelling in academics or extracurriculars, I found my strength in problem-solving through code—and since then, I’ve been continuously learning by building, experimenting, and contributing.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I thrive in environments that value learning, collaboration, and impact. I enjoy working across different parts of the stack, understanding systems end-to-end, and adapting quickly to new technologies. I bring an experimental mindset, persistence, and a genuine passion for open source—where learning happens in public and contributions matter.
+
+My goal is to work with mentors and teams that are solving meaningful problems, contribute consistently to open-source communities, and grow into an engineer who can create scalable, reliable, and future-ready software. In the age of AI, I aim to stand out not just by using tools, but by deeply understanding systems, writing clean code, and continuously pushing my limits.
+
+I’m actively seeking internship and open-source opportunities (including GSoC) where I can learn fast, contribute value, and grow alongside experienced engineers.
+---
+
+### 🛠️ Skills & Technologies
+
+- **Programming languages**: TypeScript, Javascript, python
+- **Frontend development**: Html, Css, React.js, Next.js, Tailwind Css
+- **Backend development**: Node.js, Express.js, REST APIs, Authentication &authorization (JWT, sessions)
+- **Databases**: MongoDB, PostgreSQL (basics), Database design & CRUD operations
+- **DevOps & Tools**: Git & GitHub (open-source workflows, PRs, code reviews), Linux (CLI, basic shell scripting), Docker (basics)
+- **Cloud & Services**:Firebase, Vercel / Netlify, Basic CI/CD concepts
+- **Other**: Data Structures & Algorithms (problem-solving focused), Clean code, debugging, and documentation, Open-source collaboration mindset
+---
+
+### 🎓 Education
+
+-I completed my Class 12th from Chinmaya Vidyalaya, Bokaro Steel City (Jharkhand) under the CBSE board <br>
+  with Science as my stream and Computer Science as my elective subject.
+
+---
+
+### 🏍️ Fun Facts
+
+- I wasn’t great at sports, music, or academics—but I can spend hours debugging a single issue and still enjoy it.
+- I learn best by breaking things first, then fixing them (that’s how most of my real learning happens).
+- I’m more excited about a merged pull request than a certificate or trophy.
+- Love travelling solo.
+
+---
+
+<p align="center">
+  <em>Let’s connect and have a chat!</em>
+</p>
