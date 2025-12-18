@@ -1,6 +1,6 @@
 <!-- Banner & Intro -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kushagra-2006/Kushagra-2006/refs/heads/main/images.png">
+ <img src="images.png" alt="Banner" style="width:200px; height:auto;">
 
 </p>
 <h1 align="center">Hi, I'm Kushagra Sinha 😉</h1>
