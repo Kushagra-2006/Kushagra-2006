@@ -9,6 +9,7 @@
 </p>
 <p align="center">
   <a href="mailto:kushagrasinha1117@gmail.com"><img src="https://img.shields.io/badge/Email-kushagrasinha1117%40gmail.com-blue?logo=gmail" alt="Email"></a>
+  <a href="https://github.com/Kushagra-2006"><img src="https://img.shields.io/badge/@Kushagra-2006-black?logo=github"></a>
   <a href="https://www.linkedin.com/in/kushagra-sinha-06a985215/"><img src="https://img.shields.io/badge/LinkedIn-Kushagra%20Sinha-blue?logo=linkedin" alt="LinkedIn"></a>
 </p>
 
