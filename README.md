@@ -1,6 +1,6 @@
 <!-- Banner & Intro -->
 <p align="center">
- <img src="images.png" alt="Banner" style="width:200px; height:auto;">
+ <img src="images.png" alt="Banner" style="width:300px; height:auto;">
 
 </p>
 <h1 align="center">Hi, I'm Kushagra Sinha 😉</h1>
