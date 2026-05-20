@@ -29,7 +29,7 @@ I’m actively seeking internship and open-source opportunities (including GSoC)
 
 ### 🛠️ Skills & Technologies
 
-- **Programming languages**: TypeScript, Javascript, python
+- **Programming languages**: TypeScript, Javascript, python, Java
 - **Frontend development**: Html, Css, React.js, Next.js, Tailwind Css
 - **Backend development**: Node.js, Express.js, REST APIs, Authentication &authorization (JWT, sessions)
 - **Databases**: MongoDB, PostgreSQL (basics), Database design & CRUD operations
